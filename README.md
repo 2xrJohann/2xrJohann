@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2xrJohann
 - 👀 I’m interested in concurrency and networked programs.
-- 🌱 I’m currently learning goLang and beginning to dip my feet in smart contracts!
+- 🌱 ooga booga goLang good
 - 📫 How to reach me: discord! Johann#2512
 
 <!---
