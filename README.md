@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2xrJohann
 - 👀 I’m interested in goLang
-- 🌱 ooga booga goLang good
+- 🌱 idk what this seed emoji is but I like GraphQL too 
 - 📫 How to reach me: discord! Johann#2512
 
 <!---
