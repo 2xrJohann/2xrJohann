@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @2xrJohann
-- 👀 I’m interested in goLang
-- 🌱 idk what this seed emoji is but I like GraphQL too 
+- go/typescript user
 - 📫 How to reach me: discord! Johann#2512
 
 <!---
