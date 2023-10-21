@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2xrJohann
-- go/typescript user
+- go/typescript/ocaml user
 - 📫 How to reach me: discord! Johann#2512
 
 <!---
