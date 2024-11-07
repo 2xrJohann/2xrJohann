@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @2xrJohann
-- go/typescript/ocaml user
-- 📫 How to reach me: discord! Johann#2512
+nothing worth reading herre
 
 <!---
 2xrJohann/2xrJohann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
